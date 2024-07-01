@@ -1,0 +1,69 @@
+/* Styles for the 'Categories' heading */
+.categories-heading {
+    color: orange;
+    margin-bottom: 10px; /* Adjust spacing as needed */
+}
+
+/* Styles for the 'All Categories' button */
+.all-categories {
+    background-color: orange;
+    color: white;
+    position: relative; /* To position the horizontal line */
+}
+
+/* Horizontal line before 'All Categories' */
+.all-categories::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: -10px; /* Adjust position based on your layout */
+    width: 100%;
+    height: 2px;
+    background-color: black;
+    display: block;
+}
+
+/* Default styles for other category buttons */
+.category-button {
+    color:  #007bff;;
+    transition: background-color 0.4s, color 0.4s; /* Smooth transition for hover effect */
+}
+
+/* Hover effect for other category buttons */
+.category-button:hover {
+    background-color: orange;
+    color: black;
+}
+
+.search-box {
+    position: relative;
+  }
+  
+  .search-icon {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    cursor: pointer;
+  }
+
+  .price-slider {
+    margin-top: 20px; /* Margin from the element above */
+    padding: 15px;
+    background-color: #f8f9fa; /* Light grey background */
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .price-slider p {
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .loader {
+  color: #007bff;
+  margin-left: 15px;
+    
+  }
+  

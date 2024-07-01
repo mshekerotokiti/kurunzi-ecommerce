@@ -1,0 +1,761 @@
+
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "Laptops"
+      },
+      {
+        "id": 2,
+        "name": "Desktops"
+      },
+      {
+        "id": 3,
+        "name": "Accessories"
+      },
+      {
+        "id": 4,
+        "name": "Cameras"
+      },
+      {
+        "id": 5,
+        "name": "Play Stations"
+      },
+      {
+        "id": 6,
+        "name": "Chargers"
+      }
+    ],
+    "blogPosts": [
+      {
+        "id": 1,
+        "image_url": "https://store.hp.com/app/assets/images/uploads/prod/how-to-install-ram-one-a-motherboard-hero156711117076644.jpg",
+        "title": "How to Easily Upgrade and Customize your Laptop at Home",
+        "body": "If you’re looking to boost your laptop’s functionality by upgrading or customization this step by step Guide is the article for you.",
+        "published_at": "2024-06-26T00:00:00Z",
+        "medium_link": "https://medium.com/@kurunzitechmedia/how-to-easily-upgrade-and-customize-your-laptop-at-home-1b02392090df?source=user_profile---------0----------------------------"
+      },
+      {
+        "id": 2,
+        "image_url": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Qx42orXTlZ8pALXknnEkcw.jpeg",
+        "title": "CENTRAL PROCESSING UNIT(CPU) AND MONITORING IT’S USAGE",
+        "body": "The CPU in a computer is like an engine in your car or a brain in your skull.",
+        "published_at": "2024-06-25T00:00:00Z",
+        "medium_link": "https://medium.com/@kurunzitechmedia/central-processing-unit-cpu-and-monitoring-its-usage-d37199e8e34d"
+      },
+      {
+        "id": 3,
+        "image_url": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*PyRU64OOItGz5o-ci2veiQ.jpeg",
+        "title": "REFURBISHED VS USED /PRE-OWNED laptops.id",
+        "body": "What is a refurbished laptop and is it recommended? This will guide you when buying your PC soon.",
+        "published_at": "2024-06-24T00:00:00Z",
+        "medium_link": "https://medium.com/@kurunzitechmedia/difference-between-refurbished-and-used-pre-owned-laptops.id-bdb7095284ef"
+      }
+    ],
+    "shop_items": [
+      {
+        "id": 1,
+        "name": "NEW Hp EliteBook 1030 G3 X360",
+        "price": 47000, 
+        "description": "Intel corei5 13.3inches ,8gb RAM, 256gb SSD", 
+        "image_url": "https://dealfit.tech/wp-content/uploads/2024/05/HP-EliteBook-1040-G3-Core-i7dd-1.jpg-1-1.webp",
+        "stock": "In Stock",
+        "specifications": "Operating system: Windows 10 Pro 64-Bit Edition, Memory: 8GB LPDDR3-2133 MHz SDRAM | Up to 16GB, Storage: 256GB M.2 SATA SED SSD (Solid State Drive), Optical drive: No optical drive, Graphics Processor: Integrated: Intel® UHD Graphics 620, Processor: Intel® Core™ i5-8250U (1.6 GHz base frequency, up to 3.4 GHz with Intel® Turbo Boost, Technology, 6 MB cache, 4 cores), Processor Family: 8th Generation Intel® Core™ i5 processor, Display: 14 Inches (33.8 cm) diagonal FHD IPS eDP + PSR anti-glare LED-backlit touch screen, direct bonded with Corning® Gorilla® Glass 4, 700 cd/m², 100% sRGB (1920 x 1080); HP Sure View Integrated Privacy Screen",
+        "category_id": 1
+      },
+      {
+        "id": 2,
+        "name": "NEW Hp EliteBook 1040 G6 X360",
+        "price": 50000, 
+        "description": "Intel corei5 14 inches ,8gb RAM, 256gb SSD", 
+        "image_url": "https://dealfit.tech/wp-content/uploads/2024/05/83891710491099.webp",
+        "stock": "In Stock",
+        "specifications": "Operating system: Windows 10/11 Pro 64-Bit Edition, Memory: 8GB DDR4 – 2666MHz SDRAM, Storage: 256GB PCIe® NVMe™ M.2 SSD, Optical drive: None, Graphics Processor: Integrated: Intel® UHD Graphics 620, Processor: Intel® Core™ i5-8365U vPro™ (1.6GHz base frequency, up to 4.1GHz with Intel® Turbo Boost Technology, 6MB L3 cache, 4 cores), Processor Family: 8th Generation Intel® Core™ i5 processor, Display: 14 Inches (35.56cm) diagonal FHD IPS eDP + PSR BrightView WLED-backlit touch screen direct bonded with Corning® Gorilla® Glass 5, 400 nits, 72% NTSC (1920 x 1080)",
+        "category_id": 1
+      },
+      {
+        "id": 3,
+        "name": "NEW Hp EliteBook 820 G3",
+        "price": 25500,
+        "description": "Intel corei5 14 inches ,8gb RAM, 256gb SSD", 
+        "image_url": "https://dealfit.tech/wp-content/uploads/2024/03/free-2023-12-28T125041.192-600x600-1.png", 
+        "stock": "In Stock",
+        "specifications": "Operating system: Windows 10 Pro 64-Bit Edition, Memory: 8GB DDR4-2133MHz SDRAM (1 x 8 GB) | Supports upto 16GB, Storage: 256GB PCIe® NVMe™ M.2 SSD, Optical drive: None, Graphics Processor: Intel® HD Graphics 520, Processor: Intel® Core™ i5 6200U (2.3GHz, up to 2.8GHz with Intel Turbo Boost Technology, 3MB cache, 2cores), Processor Family: 6th Generation Intel® Core™ i5 processor, Display: 14 inches (31.75 cm) diagonal, LED backlight FHD UltraSlim eDP UWVA (1920 x 1080)",
+        "category_id": 1
+      },
+      {
+        "id": 4,
+        "name": "NEW Hp EliteBook 820 G4",
+        "price": 27000, 
+        "description": "Intel corei5 14 inches ,8gb RAM, 256gb SSD", 
+        "image_url": "https://dealfit.tech/wp-content/uploads/2024/03/free-2023-12-28T125041.192-600x600-1.png", 
+        "stock": "In Stock",
+        "specifications": "Operating system: Windows 10 Pro 64-Bit Edition, Memory: 8 GB DDR4 – 2133 MHz SDRAM (1 x 8 GB) | Supports up to 32 GB | Memory Slots: 2 SODIMM, Storage: 256 GB M.2 SATA TLC SED SSD, Optical drive: None, Graphics: Integrated: Intel® HD Graphics 620, Processor: Intel® Core™ i5-7200U (2.5 GHz base frequency, up to 3.1 GHz with Intel® Turbo Boost Technology, 3 MB cache, 2 cores), Processor Family: 7th Generation Intel® Core™ i5 processor, Display: 12.5 inches (31.75 cm) diagonal HD SVA anti-glare slim LED-backlit (1366 x 768)",
+        "category_id": 1
+      },
+      {
+        "id": 5,
+        "name": "NEW Hp EliteBook 840 G4",
+        "price": 29000, 
+        "description": "Intel corei5 14 inches ,8gb RAM, 256gb SSD", 
+        "image_url": "https://support.hp.com/wcc-assets/document/images/351/c05903228.png",
+        "stock": "In Stock",
+        "specifications": "Operating system: Windows 10 Pro 64-Bit Edition, Memory: 8GB DDR4 – 2400 SDRAM (Transfer rates up to 2133 MT/s) | supporting up to 32 GB, Storage: 256GB SSD PCIe Gen 3×4 NVMe TLC, Optical drive: None, Graphics Processor: Intel® HD Graphics  620, Processor: Intel® Core™ i5-7200U (2.5 GHz base frequency, up to 3.1 GHz with Intel®Turbo Boost Technology 2.0, 3 MB Cache, Dual-Core), Processor Family: 7th Generation Intel® Core™ i5 processor, Display: 14 Inches (35.56cm) LED backlight Widescreen Display | SVA anti-glare slim  |  image Aspect ratio: 16:9 |  (1366 x 768 pixels) Full HD",
+        "category_id": 1 
+      },
+      {
+        "id": 6,
+        "name": "NEW Hp EliteBook 840 G5 Touchscreen",
+        "price": 39000, 
+        "description": "Intel corei5 14 inches ,8gb RAM, 256gb SSD", 
+        "image_url": "https://support.hp.com/wcc-assets/document/images/351/c05903228.png", 
+        "stock": "In Stock",
+        "specifications": "Operating system: Windows 10 Pro – 64 Bit Edition, Memory: 8GB DDR4 – 2400 MHz SDRAM | Supports up to 32 GB, Storage: 256GB PCIe® NVMe™ M.2 SSD, Optical drive: None, Graphics Processor: Integrated: Intel® UHD Graphics 620, Processor: Intel® Core™ i5-8350U vPro™ (1.7 GHz base frequency, up to 3.6 GHz with Intel® Turbo Boost Technology, 6 MB cache, 4 cores), Processor Family: 8th Generation Intel® Core™ i5 processor, Display: 14 inches (35.56 cm) diagonal FHD IPS anti-glare LED-backlit, 220 cd/m², 67% sRGB (1920 x 1080)",
+        "category_id": 1 
+      },
+      {
+        "id": 7,
+        "name": "NEW Hp EliteBook 840 G5 Non-Touchscreen",
+        "price": 37000, 
+        "description": "Intel corei5 14 inches ,8gb RAM, 256gb SSD", 
+        "image_url": "https://support.hp.com/wcc-assets/document/images/351/c05903228.png",
+        "stock": "In Stock",
+        "specifications": "Operating system: Windows 10 Pro – 64 Bit Edition, Memory: 8GB DDR4 – 2400 MHz SDRAM | Supports up to 32 GB, Storage: 256GB PCIe® NVMe™ M.2 SSD, Optical drive: None, Graphics Processor: Integrated: Intel® UHD Graphics 620, Processor: Intel® Core™ i5-8350U vPro™ (1.7 GHz base frequency, up to 3.6 GHz with Intel® Turbo Boost Technology, 6 MB cache, 4 cores), Processor Family: 8th Generation Intel® Core™ i5 processor, Display: 14 inches (35.56 cm) diagonal FHD IPS anti-glare LED-backlit, 220 cd/m², 67% sRGB (1920 x 1080)",
+        "category_id": 1 
+      },
+      {
+        "id": 8,
+        "name": "NEW Hp EliteBook 840 G6 Non-Touchscreen",
+        "price": 38000, 
+        "description": "Intel corei5 14 inches ,8gb RAM, 256gb SSD", 
+        "image_url": "https://support.hp.com/wcc-assets/document/images/351/c05903228.png", 
+        "stock": "In Stock",
+        "specifications": "Operating system: Windows 10 Pro – 64 Bit Edition, Memory: 8GB DDR4 – 2400 MHz SDRAM | Supports up to 32 GB, Storage: 256GB PCIe® NVMe™ M.2 SSD, Optical drive: None, Graphics Processor: Integrated: Intel® UHD Graphics 620, Processor: Intel® Core™ i5-8350U vPro™ (1.7 GHz base frequency, up to 3.6 GHz with Intel® Turbo Boost Technology, 6 MB cache, 4 cores), Processor Family: 8th Generation Intel® Core™ i5 processor, Display: 14 inches (35.56 cm) diagonal FHD IPS anti-glare LED-backlit, 220 cd/m², 67% sRGB (1920 x 1080)",
+        "category_id": 1 
+      },
+      {
+        "name": "Apple Macbook Air M1 Chip 2020",
+        "price": 120000,
+        "description": "Apple M1 chip, RAM, 256GB SSD, Retina display backlit keyboard, 495 cycle counts",
+        "image_url": "https://helios-i.mashable.com/imagery/reviews/03y8gbj1mqCuexgXxFJ5vyX/hero-image.fill.size_1248x702.v1623391330.jpg",
+        "stock": "In Stock",
+        "specifications": "Operating system: macOS 12.7.3, Memory: 8GB (1 x 8 GB) Unified Memory 4266 MT/s LPDDR4X | Supports up to 16GB, Storage: 256GB Integrated PCIe superfast SSD, Optical drive: No optical drive, Graphics Processor: Integrated Apple M1 8-core, Processor: Apple M1 chip with 8-core CPU, 8-core GPU, and 16-core Neural Engine, Processor Family: Apple M1 chip, Display: 13.3″ Retina Display with True Tone | 2560 x 1600 screen resolution | 16:10 aspect ratio for 227 pixels per inch (ppi) | Panel Type: IPS-Type LCD / Non-touch / Glossy | 400 cd/m2 Brightness | 100% DCI-P3 Color Gamut, backlit keyboard",
+        "category_id": 1
+      },
+      {
+        "name": "Apple Macbook Air 2012",
+        "price": 25000,
+        "description": "Intel Core i5-3427U processor, 4GB RAM, 128GB SSD, backlit keyboard, 2 USB ports, 11 inches, EX-UK",
+        "image_url": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2012/06/IMG-5607-1-1.jpg",
+        "stock": "In Stock",
+        "specifications": "Operating system: macOS Big Sur 11.0, Memory: 4GB of 1600MHz DDR3L, Storage: 128GB Integrated PCIe superfast SSD, Optical drive: No optical drive, Graphics Processor: Intel HD Graphics 4000, Processor: Intel Core i5-3427U processor, Display: 13.3″ Height: 0.11-0.68 inch (0.3-1.7 cm) | Width: 12.8 inches (32.5 cm) | Weight: 2.96 pounds (1.35 kg)",
+        "category_id": 1
+      },
+      {
+        "name": "Apple Macbook Pro 2015",
+        "price": 55000,
+        "description": "Intel Core i7 15 inches, 8GB RAM, 1TB HDD, 7200 rpm, 256GB SSD, 2GB dedicated NVIDIA graphics, Full HD, VGA and HDMI port, EX-UK",
+        "image_url": "https://m.media-amazon.com/images/I/51wIq8VeIQS._AC_UF1000,1000_QL80_.jpg",
+        "stock": "In Stock",
+        "specifications": "Operating system: macOS 12.7.3, Memory: 8GB (1 x 8 GB) Unified Memory 4266 MT/s LPDDR4X | Supports up to 16GB, Storage: 1TB HDD, 256GB Integrated PCIe superfast SSD, Optical drive: No optical drive, Graphics Processor: Intel Iris Graphics 6100, Processor: 1.6GHz dual-core Intel Core i5 (Turbo Boost up to 2.7GHz), Display: 13.3″ Retina Display with True Tone | 2560 x 1600 screen resolution | 16:10 aspect ratio for 227 pixels per inch (ppi) | Panel Type: IPS-Type LCD / Non-touch / Glossy | 400 cd/m2 Brightness | 100% DCI-P3 Color Gamut, backlit keyboard",
+        "category_id": 1
+      },
+      {
+        "name": "Apple Macbook Air Early 2015",
+        "price": 32000,
+        "description": "Intel Core i5, 4GB RAM, 128GB SSD, backlit keyboard, Retina display, 11 inches, EX-UK",
+        "image_url": "https://i.ebayimg.com/images/g/z6MAAOSw3ihjDXaU/s-l1600.jpg",
+        "stock": "In Stock",
+        "specifications": "Operating system: macOS Sierra, Memory: 4GB (1 x 8 GB) Unified Memory 4266 MT/s LPDDR4X | Supports up to 16GB, Storage: 128GB Integrated PCIe superfast SSD, Optical drive: No optical drive, Graphics Processor: Intel HD Graphics 6000, Processor: 1.6GHz dual-core Intel Core i5 (Turbo Boost up to 2.7GHz), Display: 11″ Retina Display with True Tone | 2560 x 1600 screen resolution | 16:10 aspect ratio for 227 pixels per inch (ppi) | Panel Type: IPS-Type LCD / Non-touch / Glossy | 400 cd/m2 Brightness | 100% DCI-P3 Color Gamut, backlit keyboard",
+        "category_id": 1
+      },
+      {
+        "name": "Hp Probook 450 G5",
+        "price": 43000,
+        "description": "Intel Core i7 15 inches, 8GB RAM, 1TB HDD, 7200 rpm, plus 256GB SSD, 2GB dedicated NVIDIA graphics, Full HD, VGA and HDMI port, EX-UK",
+        "image_url": "https://support.hp.com/wcc-assets/document/images/967/c05692052.jpg",
+        "stock": "In Stock",
+        "specifications": "Operating system: Windows 10 Pro 64-Bit Edition, Memory: 8 GB DDR4-3200 MT/s SDRAM (1 x 8 GB) | Supports up to 16GB, Storage: 1TB HDD 256GB Intel® PCIe® NVMe™ QLC M.2 Solid State Drive (SSD), Optical drive: No Optical Drive, Graphics Processor: Integrated: Intel® Iris® Xᵉ Graphics, Processor: Intel® Core™ i7-1165G7 (up to 4.7 GHz with Intel® Turbo Boost Technology, 12 MB L3 cache, 4 cores), Processor Family: 11th Generation Intel® Core™ i7 processor, Display: 15.6 Inches (39.6 cm) diagonal FHD UWVA eDP and PSR anti-glare, narrow bezel bent with HP Sure View Gen3 Integrated Privacy Screen, 1000 nits, 100% sRGB for HD and IR camera (1920 x 1080)",
+        "category_id": 1
+      },
+      {
+        "name": "Hp Revolve 810",
+        "price": 25500,
+        "description": "Intel Core i5 13 inches, 8GB RAM, 256GB SSD, 2.4GHz speed, Touch screen, Backlit keyboard, EX-UK",
+        "image_url": "https://rondamo.co.ke/photok/582103.png",
+        "stock": "In Stock",
+        "specifications": "Operating system: Windows 10 Pro 64-bits Edition, Memory: 8GB DDR3L PC3-12800 (1x 8GB) SDRAM (1600 MHz) | Up to 4 DIMM slots, Storage: 256GB PCIe NVMe Value M.2 TLC SSD, Optical drive: No Optical Drive, Graphics Processor: Intel® HD Graphics 5500, Processor: Intel® Core™ i5-5200U (2.4 GHz, up to 2.7 GHz with Intel Turbo Boost Technology, 3 MB cache, 2 cores), Display: 13 inch (4.064 cm) diagonal HD UWVA multitouch-enabled with digitizer | ultra slim LED-backlit (1366 x 768) Resolution",
+        "category_id": 1
+      },
+      {
+        "name": "Lenovo ThinkPad x240",
+        "price": 17000,
+        "description": "Intel Core i5, 4GB RAM, 500GB HDD, 2.5 GHz, 12.5 inches, backlit keyboard, EX-UK",
+        "image_url": "https://rondamo.co.ke/photok/576790.jpg",
+        "stock": "In Stock",
+        "specifications": "Operating system: Windows 10 Pro 64-bits Edition, Memory: 4GB DDR3L PC3-12800 (1x 8GB) SDRAM (1600 MHz) | Up to 4 DIMM slots, Storage: 500GB PCIe NVMe Value M.2 TLC HDD, Optical drive: No Optical Drive, Graphics Processor: Intel® HD Graphics 5500, Processor: Intel® Core™ i5-5200U (2.5 GHz, up to 2.7 GHz with Intel Turbo Boost Technology, 3 MB cache, 2 cores), Display: 12.5 inch (4.064 cm) diagonal HD UWVA multitouch-enabled with digitizer | ultra slim LED-backlit (1366 x 768) Resolution",
+        "category_id": 1
+      },
+      {
+        "name": "Asus 541xl",
+        "price": 33500,
+        "description": "Intel Core i5, 8GB RAM, 512GB SSD, 2GB NVIDIA graphics, 15 inches with numerical keyboard, EX-UK",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnuN9URz0JjteiAqUV9J2yOVGnpEQuTNa4KFSI8Z6Wvg&s",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 1
+      },
+      {
+        "name": "Lenovo Ideapad 3",
+        "price": 26000,
+        "description": "Intel Core i3, 14 inches, 8GB RAM, 256GB SSD, 10th Generation, EX-UK",
+        "image_url": "https://dnsl.co.ke/wp-content/uploads/2023/01/82H8015PUE.jpeg",
+        "stock": "In Stock",
+        "specifications": "Memory: 8GB RAM DDR4 – 2666MHz SDRAM, Storage: 256GB SSD, Optical Drive: None, Graphics Processor: Integrated Intel UHD Graphics, Processor: Intel® Core™ i3-10110U (2.1 GHz base frequency, up to 4.1 GHz with Intel® Turbo Boost Technology, 4MB Cache, 2 Cores, 4 Threads), Processor Family: 10th Generation Intel® Core™ i3 processor, Display: 14 inches (39.62 cm) diagonal LED-backlit FHD anti-glare (1920 x 1080) | Aspect ratio 16:9 | Brightness: 250 nits | Supports up to 2 independent displays (native display and 1 external monitor via HDMI®) • HDMI supports up to 4096×2160@30Hz",
+        "category_id": 1
+      },
+      {
+        "name": "Lenovo Ideapad 3",
+        "price": 50000,
+        "description": "Intel Core i5 11th Gen, 8GB of DDR4 RAM, 512GB NVME SSD, 14 inches, Integrated Intel Iris Xe Graphics, fingerprint scanner",
+        "image_url": "https://p4-ofp.static.pub//fes/cms/2023/06/12/44fbbxq1oftp7c0wwfst9519ds8ebm747280.jpg",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 1
+      },
+      {
+        "name": "Lenovo Ideapad Flex 5",
+        "price": 65000,
+        "description": "Intel Core i5 11th Gen, 8GB RAM, 512GB SSD, backlit keyboard, touchscreen x360, with Intel Iris graphics",
+        "image_url": "https://laptopclinic.co.ke/cdn/shop/products/8010.jpg?v=1679501763&width=1800",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 1
+      },
+      {
+        "name": "Lenovo Thinkpad x1 yoga",
+        "price": 47000,
+        "description": "Intel Core i7 15 inches, with 8GB RAM, 1TB HDD, 7200 rpm, plus 256GB SSD, 2GB dedicated NVIDIA graphics, Full HD, VGA and HDMI port",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRX5KxnsAH-NIbbJa0JIUMecLtWpD9GldPnpirsU5N2A&s",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 1
+      },
+      {
+        "name": "Hp 240 G8 Notebook",
+        "price": 35000,
+        "description": "Intel Core i5, 10th Generation, 8GB RAM DDR4, 256GB SSD plus 1TB (1,000GB) HDD, 14 inches size frameless",
+        "image_url": "https://mombasacomputers.b-cdn.net/wp-content/uploads/2022/06/Hp-240-G8-Intel-Core-i5-10th-Gen-4GB-RAM-1TB-HDD-14-Inches-FHD-Display.jpg",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 1
+      },
+      {
+        "name": "Dell latitude 5430",
+        "price": 70000,
+        "description": "Intel Core i7 12th Gen, 16GB RAM, 512GB SSD, backlit keyboard, 13 inches, Full HD",
+        "image_url": "https://www.dataworld.co.ke/wp-content/uploads/2023/05/LAT-5430-2.jpg",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 1
+      },
+      {
+        "name": "Dell Inspiron 15",
+        "price": 45000,
+        "description": "Intel Core i5 11th Gen, 8GB RAM DDR4, 512GB SSD, 3 USB ports, 15 inches, HDMI port",
+        "image_url": "https://www.fgee.co.ke/wp-content/uploads/2023/08/Untitled-design-2023-08-03T144934.509.png",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 1
+      },
+      {
+        "name": "Dell latitude 7280",
+        "price": 30000,
+        "description": "Intel Core i7 6th gen, 8GB RAM DDR4, 2.8GHz, 256GB SSD, Full HD, backlit keyboard, 12.5 inches",
+        "image_url": "https://linnstech.co.ke/wp-content/uploads/2023/09/Untitled-design-2023-09-06T135646.257.png",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 1
+      },
+      {
+        "name": "Lenovo Thinkbook 14",
+        "price": 50000,
+        "description": "Intel Core i5 11th gen, 8GB RAM, 512GB SSD, 14 inches",
+        "image_url": "https://mombasacomputers.b-cdn.net/wp-content/uploads/2022/02/Lenovo-ThinkBook-14-G2-ITL-Intel-Core-i5-11th-Gen-8GB-RAM-512GB-SSD-14-Inches-FHD-Display-2.jpg",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 1
+      },
+      {
+        "name": "Lenovo ThinkPad E14",
+        "price": 65000,
+        "description": "Intel Core i7 11th gen, 16GB RAM, 512GB SSD, backlit keyboard, Full HD, HDMI, Type-C and 3 USB ports",
+        "image_url": "https://zurimall.co.ke/wp-content/uploads/2023/05/Untitled-1-2.jpg.webp",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 1
+      },
+      {
+        "name": "Lenovo ThinkPad x13",
+        "price": 55000,
+        "description": "Intel Core i5 11th gen, Integrated Iris Xe Graphics, 8GB LPDDR5-6400MHz (Soldered), 256GB SSD M.2 2280",
+        "image_url": "https://p1-ofp.static.pub/medias/bWFzdGVyfHJvb3R8MjY0NjY0fGltYWdlL2pwZWd8aGZhL2hlNC8xMDgxMjE3MDMzODMzNC5qcGd8MjY5MmIxNTNmYjU5ZWQ4ZjBjOGI4YTIwMjVjYzk3ZTYwMDUyNWM5N2NmOTlkNjVmZjcxNGEzNzM3ZDA5ODQ2Yw/lenovo-laptop-thinkpad-x13-gallery-2.jpg",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 1
+      },
+      {
+        "name": "New Hp 250 g8",
+        "price": 28000,
+        "description": "Intel Celeron, 8GB RAM, 256GB SSD, 15 inches frameless, 2 cores, Intel HD graphics, 2 USB ports, Type-C port, HDMI port, numerical keyboard",
+        "image_url": "https://zurimall.co.ke/wp-content/uploads/2023/03/Artboard-1-copy-2@300x-100-2023-04-01T013459.124.jpg.webp",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 1
+      },
+      {
+        "name": "Hp 250 G8 Notebook",
+        "price": 65000,
+        "description": "Intel Core i7 11th Generation, 16GB RAM DDR4, 512GB SSD (8 CPUs), 15.6 inches size, numerical keyboard with HDMI port and Type-C port",
+        "image_url": "https://support.hp.com/wcc-assets/document/images/834/c06951531.png",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 1
+      },
+      {
+        "name": "Hp 250 G7 Notebook",
+        "price": 24000,
+        "description": "Intel Core i3 7th gen processor, 15 inches, 4GB RAM, 1TB HDD 7200 rpm",
+        "image_url": "https://support.hp.com/wcc-assets/document/images/896/c06687166.png",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 1
+      },
+      {
+        "name": "Hp 250 G7 Notebook",
+        "price": 45000,
+        "description": "Intel Core i5 10th gen processor, 2GB NVIDIA MX110 dedicated graphics, 16GB RAM, 512GB NVMe SSD, Full HD",
+        "image_url": "https://www.fgee.co.ke/wp-content/uploads/2021/07/portatil_6BP64EA_01_l.jpg",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 1
+      },
+      {
+        "name": "Hp Probook 640 G1",
+        "price": 20500,
+        "description": "Intel Core i5, 4GB RAM, 500GB HDD, 14 inches, 2.5GHz",
+        "image_url": "https://www.avistel.co.ke/wp-content/uploads/2023/01/HP-ProBook-650g1-i5-4GB500GB-1.webp",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 1
+      },
+      {
+        "name": "Hp Notebook 15",
+        "price": 27500,
+        "description": "Intel Core i5 7th gen processor, 8GB RAM DDR4, 15 inches, numerical keyboard, 500GB HDD 7200 rpm, long-lasting battery",
+        "image_url": "https://zurimall.co.ke/wp-content/uploads/2023/08/Untitled-3678-2.jpg.webp",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 1
+      },
+      {
+        "name": "Hp Probook 430 G7",
+        "price": 45000,
+        "description": "Intel Core i5, 16GB RAM, Full HD display, 256GB SSD, 10th generation processor",
+        "image_url": "https://mtech.co.ke/media/products/2023/07/03993.jpg",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 1
+      },
+      {
+        "name": "Hp Notebook 14 AMD 9",
+        "price": 23500,
+        "description": "AMD 9, 4GB RAM, 128GB SSD, with Radeon 5 graphics, 14 inches, HDMI port, 3 USB ports, Type-C port",
+        "image_url": "https://mtech.co.ke/media/products/2023/07/39390.jpg",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 1
+      },
+      {
+        "name": "Hp Probook 11 G2",
+        "price": 20500,
+        "description": "Intel Core i3 6th gen, touchscreen, 8GB RAM, 1TB HDD, HDMI port, VGA port",
+        "image_url": "https://www.onsidetechsolutions.co.ke/wp-content/uploads/2023/06/HP-Probook-X360-11G2-I5-10th-Gen-8GB-Ram-256GB-SSD-Touch.jpeg",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 1
+      },
+      {
+        "name": "Hp Probook 445 G9 AMD RYZEN 5",
+        "price": 65000,
+        "description": "8GB RAM DDR4, 512GB NVMe SSD, backlit keyboard, Radeon graphics, Full HD, 12 CPUs, 2.3GHz",
+        "image_url": "https://www.saruk.co.ke/_next/image?url=https%3A%2F%2Fsaruk-images.s3.ap-south-1.amazonaws.com%2F93861706540908.jpg&w=1920&q=75",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 1
+      },
+      {
+        "name": "Lenovo Thinkbook 15",
+        "price": 51000,
+        "description": "Intel Core i5 11th gen, 8GB RAM DDR4, 256GB NVMe SSD, Full HD, Type-C charger, 2.4GHz",
+        "image_url": "https://linnstech.co.ke/wp-content/uploads/2024/05/Untitled-design-2024-05-02T120115.381.png",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 1
+      },
+      {
+        "name": "Hp Elitebook Folio 1040 G3",
+        "price": 33000,
+        "description": "Intel Core i5, 8GB RAM, 256GB SSD, backlit keyboard, touchscreen, 14 inches, Full HD",
+        "image_url": "https://linnstech.co.ke/wp-content/uploads/2022/05/339.jpg",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 1
+      },
+      {
+        "name": "Hp Elitebook 830 G6",
+        "price": 50000,
+        "description": "Intel Core i7 8th gen, 16GB DDR4, 512GB NVMe SSD, backlit keyboard, touchscreen, 13.3 inches",
+        "image_url": "https://linnstech.co.ke/wp-content/uploads/2023/09/Untitled-design-2023-09-21T103001.304.png",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 1
+      },
+      {
+        "name": "Hp Probook 450 G8",
+        "price": 60000,
+        "description": "Intel Core i5 11th gen, 8GB RAM, 256GB NVMe SSD, backlit keyboard, Full HD, Iris graphics",
+        "image_url": "https://zurimall.co.ke/wp-content/uploads/2023/02/Artboard-10-copy-11@300x-100-2-1-600x600-1.jpg.webp",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 1
+      },
+      {
+        "name": "Hp Notebook 250 G7",
+        "price": 45000,
+        "description": "Intel Core i5 10th gen, 2GB NVIDIA MX110 dedicated graphics, 16GB RAM, 512GB NVMe SSD, Full HD",
+        "image_url": "https://www.fgee.co.ke/wp-content/uploads/2021/07/HP-Notebook-250-G7-Core-i5-4GB-RAM-1TB-Storage-15.6-FHD-Display-3.jpg",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 1
+      },
+      {
+        "name": "Dell Latitude 7390",
+        "price": 38500,
+        "description": "Intel Core i5, 8th gen, 16GB RAM DDR4, 512GB NVMe SSD, touchscreen, 14 inches, fingerprint scanner",
+        "image_url": "https://hewlettcomputersolution.co.ke/wp-content/uploads/2024/03/Untitled-design77-768x768.png",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 1
+      },
+      {
+        "name": "Dell Latitude 7440",
+        "price": 75000,
+        "description": "Intel Core i5-1355U 13th gen, 16GB RAM, 512GB SSD, 14 inches, backlit keyboard, Intel Iris graphics, Type-C charger",
+        "image_url": "https://www.onsidetechsolutions.co.ke/wp-content/uploads/2023/11/Dell-Latitude-7440-i7-1355U-16GB-RAM-512GB-SSD14FHD-Silver.webp",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 1
+      },
+    
+      {
+        "name": "Logitech Keyboard K120",
+        "price": 2500,
+        "description": "Wired Keyboard for Windows, Plug and Play, Full-Size, Spill-Resistant, Curved Space Bar, Compatible with PC, Laptop - Black",
+        "image_url": "https://resource.logitech.com/w_692,c_lpad,ar_4:3,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/keyboards/k120/gallery/k120-gallery-01-new.png?v=1",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 3
+      },
+      {
+        "name": "TP-Link 5-port Desktop Switch",
+        "price": 1200,
+        "description": "5 10/100Mbps Auto-Negotiation RJ45 ports, Supports Auto MDI / MDIX,\nGreen Ethernet technology,\nIEEE 802.3x flow control,\nPlug and play, no configuration required",
+        "image_url": "https://www.amtel.co.ke/wp-content/uploads/2020/11/TL-SF1005D-5-Port.jpg",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 3
+      },
+      {
+        "name": "TP-Link 8-port Desktop Switch",
+        "price": 1500,
+        "description": "8 10/100Mbps auto-negotiation RJ45 ports,\nSupports auto MDI/MDIX\nIEEE 802.3x flow control,\nPlug and play, no configuration required",
+        "image_url": "https://www.fgee.co.ke/wp-content/uploads/2021/07/TP-Link-TL-SF1008D-b.jpg",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 3
+      },
+      {
+        "name": "Hp Optical Wireless Mouse",
+        "price": 500,
+        "description": "Comfortable and durable non-slip wheel design,\nLight 60g button design,\nOptical sensors,\nHigh resolution up to 600-1600 DPI",
+        "image_url": "https://lucidtechcentre.com/wp-content/uploads/2023/03/3CY46PA.png",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 3
+      },
+      {
+        "name": "Hp optical Wired Mouse",
+        "price": 300,
+        "description": "Usb mouse\n3 buttons,\n1000DPI Optical tracking,\nSmooth motion without a mousepad",
+        "image_url": "https://nairobicomputershop.co.ke/media/products/M10_4.jpg",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 3
+      },
+      {
+        "name": "Wireless Rechargeable Mouse",
+        "price": 1000,
+        "description": "Distance: 10 meters I\ninterface: USB,\nColor: Black,White,Gold,Grey,\nBuilt-in rechargeable battery 500mAh,\nSize:112 x 58 x 25mm",
+        "image_url": "https://files.sophie.co.ke/2022/10/902507743_8966-1_6596.jpg",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 3
+      },
+      {
+        "name": "JBL Tune 510 BT",
+        "price": 3000,
+        "description": "Wireless On-Ear Headphones, with Purebass Sound",
+        "image_url": "https://i.ebayimg.com/images/g/JWIAAOSwX7FifA1T/s-l1600.webp",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 3
+      },
+      {
+        "name": "Oraimo Youth Buds ",
+        "price": 3500,
+        "description": "Wireless Headphones, 48hours listen,Ear cup mounted controls, Black",
+        "image_url": "https://i.roamcdn.net/hz/ed/listing-thumb-543w/607d22e215044655a4d195cdb354a7bb/-/horizon-files-prod/ed/picture/qgq9r988/f10ef0e7a6b99208f0d7db1576e1a7dfd2c8e2c5.jpg",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 3
+      },
+      {
+        "name": "Celebrat A18 BT V5.0",
+        "price": 3500,
+        "description": "Wireless Headphones, Bluetooth connectivity,Light weight, noise reduction, deep bass , dual mode(wired-wireless), 10hours playtime",
+        "image_url": "https://p.globalsources.com/IMAGES/PDT/B1165302410/Headset-wireless-headset.jpg",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 3
+      },
+      {
+        "name": "Bose QC 39 BT Headphones",
+        "price": 3000,
+        "description": "Bluetooth connectivity, Aux slot, Memory card slot, Noise cancelling, FM Radio, Comfortable to wear and can be folded",
+        "image_url": "https://dukaan.b-cdn.net/700x700/webp/projecteagle/images/a508edb6-f99a-40fb-b647-5b78052b726b.jpg",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 3
+      },
+      {
+        "name": "JBL Tune 700 BT ",
+        "price": 3200,
+        "description": "Pure Bass, 27hours battery life, Multi-point connectivity, foldable, charging cable available",
+        "image_url": "https://www.phoneplacekenya.com/wp-content/uploads/2021/11/jbl-tune-700BT-Headphones-a.jpg",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 3
+      },
+      {
+        "name": "Air Max2 Headphones",
+        "price": 3000,
+        "description": "Active noise reduction, charging cable, in ear detection,waterproof, working distance 10-15 meters",
+        "image_url": "https://trytoo.com.pk/cdn/shop/files/IMG-0340.jpg?v=1706007486&width=1445",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 3
+      },
+      {
+        "name": "Dre Beats Studio 3 Headphones",
+        "price": 2500,
+        "description": "High performance headphones, noice cancelling, compatible with iOS and android devices, 22hours battery life, wireless",
+        "image_url": "https://cdsassets.apple.com/live/7WUAS350/images/beats/beats-setup-studio3-hero.jpg",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 3
+      },
+      {
+        "name": "Sound Core by Anker Mini Speaker",
+        "price": 5500,
+        "description": "Size-Defying Sound and Bass,\nCustomizeable EQ with Soundcore App,\nBeat-Driven Light Show,\nPartyCast Technology,\nIPX7 Waterproof,\n15Hr Playtime",
+        "image_url": "https://i0.wp.com/peoplestelecom.qa/storage/2022/12/03-32.jpg?fit=800%2C800&ssl=1",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 3
+      },
+      {
+        "name": "Mega Bass F10 Colourful Speaker",
+        "price": 2500,
+        "description": "Bluetooth, 15 hours playtime",
+        "image_url": "https://sc04.alicdn.com/kf/H3373f2f9a04a4ea780c8e756b724882bN.jpg",
+        "stock": "In Stock",
+        "specifications": "",
+        "category_id": 3
+      },
+    
+        {
+          "name": "Elitedesk 900 SSF",
+          "price": 35000,
+          "description": "Intel corei7 vpro processor ,6th Gen, 8gb RAM DDR(upgradable), 500 GB HDD 7200 rpm , 19 inches Tft , keyboard and mouse",
+          "image_url": "https://guavastores.com/storage/2022/04/hp-800g2-ssf.jpg",
+          "stock": "In Stock",
+          "specifications": "",
+          "category_id": 2
+        },
+        {
+          "name": "Lenovo V530",
+          "price": 35000,
+          "description": "Intel corei5 8gen, 8GB DDR4 RAM, 1 TB (1000 GB) HDD 7200 RPM, Comes with Thinkvision screen 19.5, IPS Wide LED Screen,complete desktop",
+          "image_url": "https://www.onsidetechsolutions.co.ke/wp-content/uploads/2023/06/V530-1.jpg",
+          "stock": "In Stock",
+          "specifications": "",
+          "category_id": 2
+        },
+        {
+          "name": "Dell Optilex 3050",
+          "price": 15000,
+          "description": "Intel core i3 7th  gen , 8gb RAM DDR4 , 500Gb HDD 7200 rpm, with HDMI port, 3.4 GHz ",
+          "image_url": "https://www.fgee.co.ke/wp-content/uploads/2021/07/Dell-Optiplex-3050-ci5-4gb-500gb.jpg",
+          "stock": "In Stock",
+          "specifications": "",
+          "category_id": 2
+        },
+        {
+          "name": "Lenovo Thinkcentre M 80s",
+          "price": 45000,
+          "description": "Intel corei5 10th generation , 8gb DDR4(upgradable) , 512 Gb Nvme SSD ,Type c port,8  USB ports, HDMI port, display port, VGA port",
+          "image_url": "https://p1-ofp.static.pub/medias/bWFzdGVyfHJvb3R8NTY3Nzh8aW1hZ2UvanBnfGg1OS9oMGIvMTA5MjAxNzkyNjk2NjIuanBnfGE2OTIxMGE4OGUzNjljYmZjZDA4NTEzOThkOWQ1NzA4MTcyMzJmOTI0MTY0NmY0MDUzZDc5ZWVkYmRlNTJlMjA/bWFzdGVyfH.jpg",
+          "stock": "In Stock",
+          "specifications": "",
+          "category_id": 2
+        },
+        {
+          "name": "Hp Prodesk 600 G3",
+          "price": 31500,
+          "description": "Intel core i5 7th gen\n4GB DDR4 RAM ,500GB HDD,3.5Ghz processor speed,\nWindows 10 pro 64-Bit",
+          "image_url": "https://mtech.co.ke/media/products/2024/04/2002.jpg",
+          "stock": "In Stock",
+          "specifications": "",
+          "category_id": 2
+        },
+        {
+          "name": "Lenovo M710q",
+          "price": 19500,
+          "description": "Intel core i5 6th generation,\n16GB DDR4 RAM (expandable to 32GB),256GB NVME SSD ,3.2Ghzspeed ,6 usb 3.o ports , 2 display ports ,\nEthernet cable",
+          "image_url": "https://p3-ofp.static.pub/fes/cms/2022/09/23/tuqhmlqr5g85dt0mxaoreax10rjtjr859744.jpg",
+          "stock": "In Stock",
+          "specifications": "",
+          "category_id": 2
+        },
+        {
+            "name": "PS5 Digital Edition",
+            "price": 65000,
+            "description": "Digital 1TB storage, Two pads and Fifa 24",
+            "image_url": "https://www.starmac.co.ke/wp-content/uploads/2024/04/Untitled-1-Recovered-12.gif",
+            "stock": "In Stock",
+            "specifications": "",
+            "category_id": 5
+          },
+          {
+            "name": "PS5 Standard Edition",
+            "price": 70000,
+            "description": "Standard 1TB storage, Two pads and Fifa 24",
+            "image_url": "https://www.starmac.co.ke/wp-content/uploads/2024/04/Untitled-1-Recovered-12.gif",
+            "stock": "In Stock",
+            "specifications": "",
+            "category_id": 5
+          },
+          {
+            "name": "Hp Bluepin Charger",
+            "price": 1000,
+            "description": "Original Hp Blue pin laptop chargers, 65W 19.5V 3.33A",
+            "image_url": "https://e5wysct4rbh.exactdn.com/wp-content/uploads/2023/12/23-2.jpg?strip=all&lossy=1&ssl=1",
+            "stock": "In Stock",
+            "specifications": "",
+            "category_id": 6
+          },
+          {
+            "name": "Hp Bigpin Charger",
+            "price": 1000,
+            "description": "Original Hp Big pin laptop chargers, 65W 19.5V 3.33A",
+            "image_url": "https://e5wysct4rbh.exactdn.com/wp-content/uploads/2023/12/HP-65W-195V-333A-big-pin-charger-2-1.jpg?strip=all&lossy=1&ssl=1",
+            "stock": "In Stock",
+            "specifications": "",
+            "category_id": 6
+          },
+          {
+            "name": "Hp Smallpin Charger",
+            "price": 1000,
+            "description": "Original Hp Small pin laptop chargers, 65W 19.5V 3.33A",
+            "image_url": "https://e5wysct4rbh.exactdn.com/wp-content/uploads/2023/12/7-5-1.jpg?strip=all&lossy=1&ssl=1",
+            "stock": "In Stock",
+            "specifications": "",
+            "category_id": 6
+          },
+          {
+            "name": "Hp Type C Charger",
+            "price": 3500,
+            "description": "Original HP USB Type C Charger, 65W 20 V 3.25 A Laptop Charger",
+            "image_url": "https://e5wysct4rbh.exactdn.com/wp-content/uploads/2023/12/j-8.jpg?strip=all&lossy=1&w=768&ssl=1",
+            "stock": "In Stock",
+            "specifications": "",
+            "category_id": 6
+          },
+          {
+            "name": "Dell Smallpin Charger",
+            "price": 1000,
+            "description": "Original Dell Small Pin laptop Charger,65W, 19.5V ,3.34A",
+            "image_url": "https://e5wysct4rbh.exactdn.com/wp-content/uploads/2023/12/n-6-1.jpg?strip=all&lossy=1&ssl=1",
+            "stock": "In Stock",
+            "specifications": "",
+            "category_id": 6
+          },
+          {
+            "name": "Dell Bigpin Charger",
+            "price": 1000,
+            "description": "Original Dell Big pin laptop charger, 65W ,19.5V ,3.34A",
+            "image_url": "https://e5wysct4rbh.exactdn.com/wp-content/uploads/2023/12/HP-65W-195V-333A-big-pin-charger-2-1.jpg?strip=all&lossy=1&ssl=1",
+            "stock": "In Stock",
+            "specifications": "",
+            "category_id": 6
+          },
+          {
+            "name": "Dell Type C Charger",
+            "price": 3500,
+            "description": "Original Dell Type C laptop charger, 65W, 15V, 4.3A USB",
+            "image_url": "https://e5wysct4rbh.exactdn.com/wp-content/uploads/2023/12/LD0005887789_1-1.jpg?strip=all&lossy=1&ssl=1",
+            "stock": "In Stock",
+            "specifications": "",
+            "category_id": 6
+          },
+          {
+            "name": "Lenovo Bigpin Charger",
+            "price": 1000,
+            "description": "Original Lenovo Bigpin laptop charger, 65W, 15V, 4.3A USB",
+            "image_url": "https://e5wysct4rbh.exactdn.com/wp-content/uploads/2023/12/lenovo-20V-325A-65W-big-pin-Charger.jpg?strip=all&lossy=1&ssl=1",
+            "stock": "In Stock",
+            "specifications": "",
+            "category_id": 6
+          },
+          {
+            "name": "Lenovo Smallpin Charger",
+            "price": 1000,
+            "description": "Original Lenovo Smallpin laptop charger, 65W, 15V, 4.3A USB",
+            "image_url": "https://e5wysct4rbh.exactdn.com/wp-content/uploads/2023/12/n-7-2.jpg?strip=all&lossy=1&ssl=1",
+            "stock": "In Stock",
+            "specifications": "",
+            "category_id": 6
+          },
+          {
+            "name": "Lenovo Type C Charger",
+            "price": 3500,
+            "description": "Original Lenovo Type C laptop charger, 65W, 15V, 4.3A USB",
+            "image_url": "https://e5wysct4rbh.exactdn.com/wp-content/uploads/2023/12/Lenovo-65-W-225-A-20-V-USB-Type-C-1.jpg?strip=all&lossy=1&ssl=1",
+            "stock": "In Stock",
+            "specifications": "",
+            "category_id": 6
+          }
+        ]
+    }
+

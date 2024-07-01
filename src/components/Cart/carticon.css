@@ -1,0 +1,26 @@
+.cart-icon-link {
+    position: relative;
+    display: inline-block; /* Ensures that the link wraps tightly around the content */
+  }
+  
+  .cart-icon-image {
+    display: block; /* Removes bottom space/gap */
+    max-width: 90px; /* Adjust width as necessary */
+    max-height: 30px;
+  }
+  
+  .cart-icon-badge {
+    position: absolute;
+    top: 0;
+    right: 0;
+    transform: translate(50%, -50%); /* Adjusts the position to be exactly at the corner */
+    border-radius: 50%; /* Makes the badge rounded */
+    padding: 5px; /* Adjust padding to manage size */
+    font-size: 0.75rem; /* Adjust font size based on your design */
+    min-width: 20px; /* Minimum width to ensure the badge is circular */
+    height: 20px; /* Set a fixed height to make it a perfect circle */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  

@@ -1,0 +1,59 @@
+.shop-item-card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    /* margin-bottom: 20px; */
+    overflow: hidden;
+    width: 300px; /* Adjust the width as needed */
+    max-height: 550px; /* Set a fixed height for the card */
+  }
+  
+  .card-img {
+    /* width: 100%; */
+    max-height: 250px; 
+  }
+  
+  .card-content {
+    padding: 10px;
+  }
+  
+  .card-title {
+    font-size: 1.2rem;
+   
+  }
+  
+  .card-description {
+    margin-bottom: 6px;
+  }
+  
+  .card-price {
+    margin-bottom: 7px;
+  }
+  
+  .card-link {
+    display: block;
+    text-align: center;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+  }
+  
+  .card-link:hover {
+    background-color: #0056b3;
+  }
+  
+  .shop-item-card .card-price-stock {
+    display: flex;
+    align-items: left;
+    gap: 1rem;
+  }
+  
+  .shop-item-card .card-stock.in-stock {
+    color: green;
+  }
+  
+  .shop-item-card .card-stock.out-of-stock {
+    color: red;
+  }

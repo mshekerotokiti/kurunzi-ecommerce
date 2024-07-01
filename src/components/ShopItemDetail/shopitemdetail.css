@@ -1,0 +1,17 @@
+.image-magnify {
+    transition: transform 0.5s ease;
+  }
+  
+  .image-magnify:hover {
+    transform: scale(1.1);
+  }
+  
+  .action-buttons button {
+    margin-top: 10px;
+    margin-right: 10px;
+  }
+  
+  .action-buttons {
+    margin-top: 20px;
+  }
+  
