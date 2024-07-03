@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
-//import logoimage from "src/images/logo.png";
 import './navbar.css';
 import CartIcon from '../Cart/CartIcon';
 
@@ -17,14 +16,14 @@ const Navbar = () => {
       <div className="container">
         {/* Logo */}
         <div className="navbar-brand">
-          <a href="/">
+          <a href="/kurunzishop">
             <img
-              src="../images/logo.png"
+              src= '/logo.png'
               alt="Logo"
               style={{
                 height: 'auto', 
-                maxWidth: '55px', 
-                transform: 'scale(3.0)', 
+                maxWidth: '58px', 
+                transform: 'scale(2.0)', 
               }}
             />
           </a>
@@ -82,11 +81,11 @@ const Navbar = () => {
             </li>
           </ul>
           {/* Get Quote button */}
-          <div className="ml-lg-auto">
+          {/* <div className="ml-lg-auto">
             <Link to="/contact" className="btn btn-primary">
               GET QUOTE
             </Link>
-          </div>
+          </div> */}
         </div>
       </div>
     </nav>

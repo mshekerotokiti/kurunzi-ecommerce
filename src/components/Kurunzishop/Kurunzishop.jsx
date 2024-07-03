@@ -5,7 +5,8 @@ import Pagination from "../Pagination/Pagination";
 import './kurunzishop.css';
 
 const Kurunzishop = () => {
-  const [shopItems, setShopItems] = useState([]);
+  const [allShopItems, setAllShopItems] = useState([]); // Maintain all shop items
+  const [shopItems, setShopItems] = useState([]); // Displayed shop items
   const [categories, setCategories] = useState([]);
   const [selectedCategory, setSelectedCategory] = useState(null);
   const [currentPage, setCurrentPage] = useState(1);
@@ -32,8 +33,9 @@ const Kurunzishop = () => {
       })
       .then(data => {
         setCategories(data.categories);
-        setShopItems(data.shop_items);
+        setAllShopItems(data.shop_items); // Set all shop items
         setTotalPages(Math.ceil(data.shop_items.length / 10)); // Assuming 10 items per page
+        filterShopItems(); // Initialize with filtering based on current state
       })
       .catch(error => {
         console.error("Error fetching data:", error);
@@ -42,7 +44,7 @@ const Kurunzishop = () => {
   };
 
   const filterShopItems = () => {
-    let filteredItems = shopItems;
+    let filteredItems = allShopItems.slice(); // Make a copy of all shop items
     if (searchQuery) {
       filteredItems = filteredItems.filter(item =>
         item.name.toLowerCase().includes(searchQuery.toLowerCase())
@@ -54,7 +56,7 @@ const Kurunzishop = () => {
       );
     }
     // Pagination logic
-    const itemsPerPage = 10;
+    const itemsPerPage = 5;
     const offset = (currentPage - 1) * itemsPerPage;
     const paginatedItems = filteredItems.slice(offset, offset + itemsPerPage);
     setShopItems(paginatedItems);
@@ -77,7 +79,7 @@ const Kurunzishop = () => {
     <div className="container">
       {isLoading ? (
         <div className="d-flex justify-content-center align-items-center" style={{ height: '10vh' }}>
-          <span className="spinner-border" style={{ width: '4rem', height: '4rem',color:'orange'}} role="status" aria-hidden="true"></span>
+          <span className="spinner-border" style={{ width: '4rem', height: '4rem', color: 'orange' }} role="status" aria-hidden="true"></span>
           <span className="loader">Please Wait...</span>
         </div>
       ) : (

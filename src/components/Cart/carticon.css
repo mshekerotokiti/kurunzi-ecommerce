@@ -4,8 +4,8 @@
   }
   
   .cart-icon-image {
-    display: block; /* Removes bottom space/gap */
-    max-width: 90px; /* Adjust width as necessary */
+    display: block; 
+    max-width: 30px; 
     max-height: 30px;
   }
   
@@ -13,7 +13,7 @@
     position: absolute;
     top: 0;
     right: 0;
-    transform: translate(50%, -50%); /* Adjusts the position to be exactly at the corner */
+    transform: translate(30%, -30%); /* Adjusts the position to be exactly at the corner */
     border-radius: 50%; /* Makes the badge rounded */
     padding: 5px; /* Adjust padding to manage size */
     font-size: 0.75rem; /* Adjust font size based on your design */

@@ -13,16 +13,17 @@ const ShopItemDetail = () => {
   const { cartItems, addToCart, removeFromCart, updateQuantity } = useContext(CartContext);
 
   useEffect(() => {
-    fetch(`https://kurunzitech-api-2d13e592f1a2.herokuapp.com/kurunzi_shop/${id}`)
-      .then(response => {
+    const fetchItem = async () => {
+      try {
+        const response = await fetch('/shopItems.json');
         if (!response.ok) {
           throw new Error('Failed to fetch item details');
         }
-        return response.json();
-      })
-      .then(itemData => {
-        if (itemData.price) {
-          itemData.price = Number(itemData.price);
+        const data = await response.json();
+        const items = data.shop_items;
+        const itemData = items.find(product => product.id === parseInt(id));
+        if (!itemData) {
+          throw new Error('Item not found');
         }
         setItem(itemData);
         setLoading(false);
@@ -31,11 +32,13 @@ const ShopItemDetail = () => {
           setInCart(true);
           setQuantity(existingItem.quantity);
         }
-      })
-      .catch(error => {
+      } catch (error) {
         console.error('Fetching error:', error);
         setLoading(false);
-      });
+      }
+    };
+
+    fetchItem();
   }, [id, cartItems]);
 
   const handleAddToCart = () => {
@@ -71,10 +74,11 @@ const ShopItemDetail = () => {
     return <div>Item not found</div>;
   }
 
-  // Split the description into an array of list items using commas
+  // Split the description and specifications into arrays of list items using commas and colons, respectively
   const descriptionItems = item.description.split(',').map(item => item.trim());
-
+  const specificationItems = item.specifications.split(',').map(spec => spec.split(':').map(s => s.trim()).join(': '));
   const formattedPrice = Number(item.price).toLocaleString('en-US');
+
   return (
     <div className="container">
       <div className="row">
@@ -89,6 +93,12 @@ const ShopItemDetail = () => {
             ))}
           </ul>
           <p className="card-price"><strong>Price:</strong> Ksh {formattedPrice}</p>
+          <ul>
+            {specificationItems.map((specItem, index) => (
+              <li key={index}>{specItem}</li>
+            ))}
+          </ul>
+          <p><strong>Stock:</strong> {item.stock}</p>
           <div className="action-buttons">
             {inCart ? (
               <>

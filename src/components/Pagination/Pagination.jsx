@@ -1,8 +1,38 @@
 import React from 'react';
 
 const Pagination = ({ totalPages, currentPage, onPageChange }) => {
-  // Create an array of page numbers
-  const pageNumbers = Array.from({ length: totalPages }, (_, i) => i + 1);
+  const maxVisiblePages = 5; // Maximum visible pages in the pagination bar
+
+  // Function to calculate pagination range with breaks and ellipsis
+  const paginationRange = () => {
+    const range = [];
+    let start = Math.max(1, currentPage - Math.floor(maxVisiblePages / 2));
+    let end = Math.min(totalPages, start + maxVisiblePages - 1);
+
+    if (end - start + 1 < maxVisiblePages) {
+      start = Math.max(1, end - maxVisiblePages + 1);
+    }
+
+    if (start > 1) {
+      range.push(1);
+      if (start > 2) {
+        range.push('...');
+      }
+    }
+
+    for (let i = start; i <= end; i++) {
+      range.push(i);
+    }
+
+    if (end < totalPages) {
+      if (end < totalPages - 1) {
+        range.push('...');
+      }
+      range.push(totalPages);
+    }
+
+    return range;
+  };
 
   return (
     <nav>
@@ -10,10 +40,10 @@ const Pagination = ({ totalPages, currentPage, onPageChange }) => {
         <li className={`page-item ${currentPage === 1 ? 'disabled' : ''}`}>
           <a className="page-link" onClick={() => onPageChange(currentPage - 1)} href="#!">Previous</a>
         </li>
-        {pageNumbers.map(number => (
-          <li key={number} className={`page-item ${currentPage === number ? 'active' : ''}`}>
-            <a className="page-link" onClick={() => onPageChange(number)} href="#!">
-              {number}
+        {paginationRange().map((page, index) => (
+          <li key={index} className={`page-item ${page === '...' ? 'disabled' : ''} ${currentPage === page ? 'active' : ''}`}>
+            <a className="page-link" onClick={() => onPageChange(page)} href="#!">
+              {page}
             </a>
           </li>
         ))}
